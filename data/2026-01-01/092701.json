@@ -1,0 +1,8 @@
+{
+  "ts_utc": "2026-01-01T09:27:01+00:00",
+  "unix": 1767259621,
+  "halfhour_bucket": 0,
+  "checksum": "a15e06cde1ae",
+  "source": "half-hour-metronome/stdlib",
+  "hint": "no external APIs; guaranteed diff per run"
+}
